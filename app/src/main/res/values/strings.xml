@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">奶牛疾病预测</string>
+    <string name="state_0">正常</string>
+    <string name="state_1">风险</string>
+    <string name="state_2">患病</string>
+    <string name="cow_id">牛号</string>
+    <string name="delete_record">删除记录</string>
+    <string name="show_details">查看详情</string>
+    <string name="choose_date">选择日期</string>
+    <string name="all">全部</string>
+    <string name="rufang">奶牛乳房炎预测</string>
+    <string name="zigong">奶牛子宫炎预测</string>
+    <string name="zigong_form">奶牛子宫炎预测表单</string>
+    <string name="type">类型</string>
+    <string name="date">日期</string>
+    <string name="input">输入数据</string>
+    <string name="input0">输入</string>
+    <string name="result">预测结果</string>
+    <string name="No_name">未命名</string>
+    <string name="time">时间</string>
+    <string name="predict_list">预测列表</string>
+    <string name="welcome">欢迎来到奶牛疾病预测</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="logging_in">正在登录</string>
+    <string name="login_welcome">登录成功, 欢迎!</string>
+    <string name="register">注册账户</string>
+    <string name="tourist_trial">游客使用</string>
+    <string name="lactation_period">泌乳期</string>
+    <string name="lactation_days">泌乳天数</string>
+    <string name="average">平均值</string>
+    <string name="standard">标准差</string>
+    <string name="conductivity">连续五天的电导率(L)</string>
+    <string name="production">连续五天的产量(mS/cm)</string>
+    <string name="lying_time">连续五天的躺卧时间(min)</string>
+    <string name="reset">重置</string>
+    <string name="makesure">请确保所有输入都已填写</string>
+    <string name="predict">预测</string>
+    <string name="rufang_form">奶牛乳房炎预测表单</string>
+    <string name="value">值</string>
+    <string name="average_yield">连续五天的产量均值(L)</string>
+    <string name="std_of_output">连续五天的产量标准差(L)</string>
+    <string name="mean_conductivity">连续五天的电导率均值(mS/cm)</string>
+    <string name="std_of_conductivity">连续五天的电导率标准差(mS/cm)</string>
+    <string name="mean_lying_time">连续五天的躺卧时间均值(min)</string>
+    <string name="std_of_lying_time">连续五天的躺卧时间标准差(min)</string>
+    <string name="this_cow">该牛</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="input_by_day">按天输入</string>
+    <string name="message"> </string>
+    <string name="p2l1">产犊季节</string>
+    <string name="p2o1_1">1: 春季</string>
+    <string name="p2o1_2">2: 夏季</string>
+    <string name="p2o1_3">3: 秋季</string>
+    <string name="p2o1_4">4: 冬季</string>
+    <string name="p2l2">产次类别</string>
+    <string name="p2o2_0">0: 第一胎次</string>
+    <string name="p2o2_1">1: 第二胎次</string>
+    <string name="p2o2_2">2: 第三胎次</string>
+    <string name="p2o2_3">3: 第四胎次</string>
+    <string name="p2o2_4">4: 第五胎次及以上</string>
+    <string name="p2l3">干奶期长类别</string>
+    <string name="p2o3_0">0: 0天</string>
+    <string name="p2o3_1">1: 1-50天</string>
+    <string name="p2o3_2">2: 51-65天</string>
+    <string name="p2o3_3">3: 66-100天</string>
+    <string name="p2o3_4">4: >=101天</string>
+    <string name="p2l4">妊娠期长类别</string>
+    <string name="p2o4_1">1: 0-270天</string>
+    <string name="p2o4_2">2: 271-275天</string>
+    <string name="p2o4_3">3: >=276天</string>
+    <string name="p2l5">体况评分</string>
+    <string name="p2o5">输入</string>
+    <string name="p2l6">产后首次发情日龄类别</string>
+    <string name="p2o6_1">1: 0-686天</string>
+    <string name="p2o6_2">2: 687-716天</string>
+    <string name="p2o6_3">3: 717-747天</string>
+    <string name="p2o6_4">4: >=748天</string>
+    <string name="p2l7">双胞胎状态</string>
+    <string name="p2o7_1">1: 单胎</string>
+    <string name="p2o7_2">2: 双胞胎</string>
+    <string name="p2l8">犊牛性别</string>
+    <string name="p2o8_1">1: 公</string>
+    <string name="p2o8_2">2: 母</string>
+    <string name="p2l9">犊牛出生体重类别</string>
+    <string name="cow_id_label">牛号(非必填)</string>
+    <string name="cow_breed_code_label">奶牛品种代码</string>
+    <string name="calving_seasons_label">产犊季节</string>
+    <string name="parity_class_label">产次类别</string>
+    <string name="dry_period_length_class_label">干奶期长类别</string>
+    <string name="pregnancy_length_class_label">妊娠期长类别</string>
+    <string name="body_condition_score_label">体况评分</string>
+    <string name="age_aft_first_calving_day_class_label">产后首次发情日龄类别</string>
+    <string name="twining_status_label">双胞胎状态</string>
+    <string name="calf_sex_label">犊牛性别</string>
+    <string name="calf_birth_weight_class_label">犊牛出生体重类别</string>
+    <string name="submit_prediction">提交预测</string>
+    <string name="waiting_result">正在等待结果...</string>
+    <string name="prediction_result">预测结果</string>
+    <string name="high_probability">极大概率患病</string>
+    <string name="possible_probability">有可能患病</string>
+    <string name="low_probability">患病概率较低</string>
+    <string name="error_fill_all_fields">请先填写完整</string>
+    <string name="the_cow">该奶牛患病概率为</string>
+    <string name="No_data">无数据</string>
+
+    <string name="bottom1">预测</string>
+    <string name="bottom2">历史</string>
+    <string name="bottom3">设置</string>
+    <string name="start_day">开始日期</string>
+    <string name="No_choice">未选择</string>
+    <string name="end_day">结束日期</string>
+    <string name="delete_mode">删除模式</string>
+    <string name="filter">筛选</string>
+
+
+    <string name="username_or_password_empty">用户名或密码不能为空</string>
+    <string name="network_error">无法连接网络，请检查您的网络连接。</string>
+    <string name="password_error">密码错误，请重试。</string>
+    <string name="login_failed">登录失败</string>
+    <string name="register_success">注册成功!</string>
+    <string name="register_failed">注册失败，请重试。</string>
+    <string name="error">错误</string>
+
+    <string name="register_account">注册账户</string>
+    <string name="username_hint">用户名</string>
+    <string name="password_hint">密码</string>
+    <string name="confirm_password_hint">确认密码</string>
+    <string name="register_button">注册</string>
+    <string name="loading">正在注册...</string>
+    <string name="success_message">注册成功, 请登录!</string>
+    <string name="error_message">错误: %1$s</string>
+    <string name="username_invalid_message">用户名至少3个字符，最多15个字符，只能包含字母、数字和下划线, 且不能包含空格</string>
+    <string name="password_invalid_message">密码至少8个字符，必须包含至少一个字母、一个数字，且不包含空格</string>
+
+
+
+
+
+</resources>
